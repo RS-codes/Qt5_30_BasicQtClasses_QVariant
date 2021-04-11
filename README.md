@@ -1,5 +1,5 @@
 # Qt5_30_BasicQtClasses_QVariant
 
-# Basic Qt Classes QVariant discussed and
+#Basic Qt classes QVariant discussed and
 
 #SourceCode added 
