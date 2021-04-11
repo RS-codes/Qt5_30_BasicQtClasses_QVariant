@@ -1,0 +1,1 @@
+# Qt5_30_BasicQtClasses_QVariant
